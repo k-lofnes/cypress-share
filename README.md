@@ -1,4 +1,4 @@
 # cypress-share
 TODO:
-clone
+clone ->
 npx cypress open
